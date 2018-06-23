@@ -72,7 +72,7 @@ your Cowsay as a Service application. Your basic tier offers only basic cowsay
 API features, while your your premium level customers get the added database
 features. The hot new startup Beauvine is paying for the basic service, while
 their competitor, the more established Auroch has opts for your premium
-service. Auroch also insists that you set up also set up a custom one-off
+service. Auroch also insists that you also set up a custom one-off
 instance of the application using cowsay's dragon character as the default.
 
 Your goal is to create a Hiera configuration that will provide parameter
